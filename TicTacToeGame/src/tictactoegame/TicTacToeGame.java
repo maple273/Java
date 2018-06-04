@@ -8,7 +8,7 @@ import javax.swing.*;
 
 /**
  *
- * @author MaryQ (mq398)
+ * @author MaryQ 
  * 
  * 
  * Tic Tac Toe Game:
